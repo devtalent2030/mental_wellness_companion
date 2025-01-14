@@ -204,16 +204,8 @@ You are free to use, modify, and distribute this software under the terms of the
 
 ---
 
-**© 2024 [Your Name or Organization]. All rights reserved.**  
+**© 2024 [Talent Nyota]. All rights reserved.**  
 
 Feel free to reach out with any questions or suggestions!
 
 ---
-
-> **Tip**: If you need to host the images somewhere else (e.g., GitHub), copy the URL of each uploaded image and replace `./screenshots/filename.png` with the direct link, like `![Home Screen](https://github.com/your-username/repo-name/blob/main/screenshots/home_screen.png "Home Screen")`.
-
----
-
-### Enjoy your top-tier README! 
-
-Simply copy-paste this entire Markdown content into your `README.md` file, replace placeholders (including file paths to images, repository links, licensing info, etc.), and you’ll have a polished and professional project overview.
