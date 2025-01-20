@@ -1,6 +1,5 @@
 # Mental Wellness Companion App
 
-![Project Banner](./screenshots/banner.png "Project Banner")
 
 A cross-platform mobile application built with **Flutter** and **Dart** to promote mental health and well-being. This app offers daily mindfulness exercises, a mood tracker with visual history, relaxation techniques, and customizable user settings.
 
@@ -66,8 +65,6 @@ project_root/
 <br/>
 
 ## Screenshots
-
-Below are example sections showcasing how to embed images. Replace these placeholders with your actual screenshot file paths inside `./screenshots/` or wherever you store them.
 
 ### Home Screen
 ![Home Screen](./screenshots/home1.png "Home Screen")
